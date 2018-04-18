@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//11
 public class AI_enemy1 : MonoBehaviour
 {
     private Transform myTransform;
